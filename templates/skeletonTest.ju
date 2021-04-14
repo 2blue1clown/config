@@ -1,0 +1,18 @@
+
+/**
+* @author Jono Jones
+**/
+
+import CITS2200.*;
+import static org.junit.Assert.*;
+import org.junit.Test;
+
+public class classTest{
+
+	@Test
+	public void test(){
+		...
+	}
+		
+}
+
